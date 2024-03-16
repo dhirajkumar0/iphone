@@ -771,13 +771,5 @@ Public Assets used in the project can be found [here](https://drive.google.com/f
 
 
 
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-
-
-<br />
-<br />
-
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-
 
 #
